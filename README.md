@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/CustomInGameConsole/releases/tag/v1.0.0)</br>
 Create your own Dialogues and Events by customizing Graphs.
 
-![GraphDialogueSystem_Big](https://user-images.githubusercontent.com/55363746/194783762-3cdefb13-7daa-4f1c-89fe-145ee0d611cb.jpg)
+[![GraphDialogueSystem_Big](https://user-images.githubusercontent.com/55363746/194783762-3cdefb13-7daa-4f1c-89fe-145ee0d611cb.jpg)](https://www.youtube.com/watch?v=-2tD68GsaFA)
 
 ## Description
 ***Latest Update:*** _September 10th, 2022_
