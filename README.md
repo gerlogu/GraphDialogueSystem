@@ -9,7 +9,7 @@ Create your own Dialogues and Events by customizing Graphs.
 
 ***Note:*** _A good understanding of Blueprints, Behavior Trees & Data Tables will be useful in order to modify content._
 
-***[Official Website](https://gerlogu.com) / [GitHub Profile](https://github.com/gerlogu)***
+***[Video Preview](https://www.youtube.com/watch?v=-2tD68GsaFA) / [Official Website](https://gerlogu.com) / [GitHub Profile](https://github.com/gerlogu)***
 
 
 ### 📚 Overview
