@@ -1,5 +1,6 @@
 # Graph Dialogue System
-[![Version](https://img.shields.io/badge/Version-1.0.0-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/CustomInGameConsole/releases/tag/v1.0.0)</br>
+[![Version](https://img.shields.io/badge/Version-1.0.0-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/CustomInGameConsole/releases/tag/v1.0.0)
+![Version](https://img.shields.io/badge/Blueprints-0086d9?style=flat)</br>
 Create your own Dialogues and Events by customizing Graphs.
 
 [![GraphDialogueSystem_Big](https://user-images.githubusercontent.com/55363746/223794243-2d2b8d25-2ec4-467f-97c8-cf22c8e95da0.png)](https://www.youtube.com/watch?v=-2tD68GsaFA)
