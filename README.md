@@ -4,8 +4,7 @@
 ![Version](https://img.shields.io/github/stars/gerlogu/GraphDialogueSystem?style=social)</br>
 Create your own Dialogues and Events by customizing Graphs.
 
-[![GraphDialogueSystem_Big](https://user-images.githubusercontent.com/55363746/223794243-2d2b8d25-2ec4-467f-97c8-cf22c8e95da0.png)](https://www.youtube.com/watch?v=-2tD68GsaFA)
-
+https://user-images.githubusercontent.com/55363746/225152769-38fab4ae-6f43-4ad0-adbf-61176edc0da2.mp4
 
 ## Description
 ***Latest Update:*** _September 10th, 2022_
@@ -36,10 +35,6 @@ If you have any questions, contact me and I will answer you and include your que
 
 - **OFFICIAL WEBSITE:** www.gerlogu.com
 - **CONTACT EMAIL:** contact@gerlogu.com
-
-## Trailer
-
-https://user-images.githubusercontent.com/55363746/225152769-38fab4ae-6f43-4ad0-adbf-61176edc0da2.mp4
 
 ## Technical Information
 
