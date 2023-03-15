@@ -6,13 +6,16 @@ Create your own Dialogues and Events by customizing Graphs.
 
 https://user-images.githubusercontent.com/55363746/225152769-38fab4ae-6f43-4ad0-adbf-61176edc0da2.mp4
 
+<br>
+
+> ##### If you find the asset useful, please support it by giving a "★ Star" in the repository, thank you!
+
 ## Description
 ***Latest Update:*** _September 10th, 2022_
 
 ***Note:*** _A good understanding of Blueprints, Behavior Trees & Data Tables will be useful in order to modify content._
 
 ***[Video Preview](https://www.youtube.com/watch?v=-2tD68GsaFA) / [Official Website](https://gerlogu.com) / [GitHub Profile](https://github.com/gerlogu)***
-
 
 ### 📚 Overview
 
