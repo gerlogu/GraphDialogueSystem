@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/55363746/225152769-38fab4ae-6f43-4ad0-
 
 <br>
 
-> ##### If you find the asset useful, please support it by giving a "★ Star" in the repository, thank you!
+> ##### If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!
 
 ## Description
 ***Latest Update:*** _September 10th, 2022_
