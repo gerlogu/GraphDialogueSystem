@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/55363746/225152769-38fab4ae-6f43-4ad0-
 > ##### If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!
 
 ## Description
-***Latest Update:*** October 10th, 2022_
+***Latest Update:*** _October 10th, 2022_
 
 ***Note:*** _A good understanding of Blueprints, Behavior Trees & Data Tables will be useful in order to modify content._
 
