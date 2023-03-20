@@ -6,9 +6,7 @@ Create your own Dialogues and Events by customizing Graphs.
 
 https://user-images.githubusercontent.com/55363746/225152769-38fab4ae-6f43-4ad0-adbf-61176edc0da2.mp4
 
-<br>
-
-> ##### If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!
+##### <div align="center">If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!</div>
 
 ## Description
 ***Latest Update:*** _October 10th, 2022_
